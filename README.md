@@ -1,3 +1,6 @@
+![Banner](https://github.com/YouriBB95/YouriBB95/raw/main/banner.png)
+
+
 # 👋 Hi, I'm Youri Benschop
 
 I'm an aspiring **AI-assisted Data Scientist** focused on building smart, remote-friendly, and real-world machine learning solutions.
